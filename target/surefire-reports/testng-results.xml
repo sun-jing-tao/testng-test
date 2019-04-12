@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[RetrofitLog--> --> GET http://qtx.wengetech.com:28086/common_al/common/getNewsColumnData?page=0&size=10&columnId=5c10cfcaa310abf163b45664]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> --> END GET]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> <-- 200 OK http://qtx.wengetech.com:28086/common_al/common/getNewsColumnData?page=0&size=10&columnId=5c10cfcaa310abf163b45664 (280ms)]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Server: nginx/1.14.1]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Date: Fri, 12 Apr 2019 06:31:19 GMT]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Content-Type: application/json;charset=UTF-8]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Transfer-Encoding: chunked]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Connection: keep-alive]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Access-Control-Allow-Origin: *]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Pragma: no-cache]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Cache-Control: no-cache]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Expires: Thu, 01 Jan 1970 00:00:00 GMT]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> ]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> {"total":87,"list":[{"like_num":0,"jsonUrl":null,"author":"胡蓉","image_url":"https://img03-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5caf2c1ef3e888e072d0ee72.jpg","source":"新华社","title":"习近平时间|参与全球科技合作 贡献中国智慧","type":2,"pubDate":"2019-04-11 19:59:16","url":"http://home.xinhua-news.com/rss/newsdetail/b6f6dd0601e25a5aa88587df2a24f820/1554983965389","read_num":56,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/11/bd8fbd6dfc094ee798f2dd234ccdbac3/XxjvxmC007029_20190411_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":27044,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"刘璐","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cad8f96f3e888e072d035f5.jpg","source":"新华社","title":"习近平时间|推动国土绿化不断取得实实在在的成效","type":2,"pubDate":"2019-04-10 14:39:08","url":"http://home.xinhua-news.com/rss/newsdetail/ab7deaf8e5ec6d0bc833255356dd87af/1554878357240","read_num":599,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/10/XxjvxmC007003_20190410_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26753,"share_num":0},{"like_num":0,"jsonUrl":null,"author":"闫建华","image_url":"https://img03-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cac4e93f3e888e072cfb365.jpg","source":"新华社","title":"习近平时间|脱贫攻坚是一场必须打赢打好的硬仗","type":2,"pubDate":"2019-04-09 15:49:24","url":"http://home.xinhua-news.com/rss/newsdetail/3ec540033444c4ffa88587df2a24f820/1554796177552","read_num":119,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/09/XxjvxmC007012_20190409_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26621,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"张南琦","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cab3c3df3e888e072cf565b.jpg","source":"新华社","title":"习近平时间|造林绿化要一代接着一代干","type":2,"pubDate":"2019-04-08 20:18:55","url":"http://home.xinhua-news.com/rss/newsdetail/7b03633f878cd927a32a172ed2a93d3c/1554725948837","read_num":476,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/08/XxjvxmC007029_20190408_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26539,"share_num":1},{"like_num":1,"jsonUrl":null,"author":"李茜","image_url":"https://img02-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca95fb7f3e823d5501c30bf.jpg","source":"新华社","title":"习近平时间|产业振兴促乡村振兴","type":2,"pubDate":"2019-04-07 10:25:48","url":"http://home.xinhua-news.com/rss/newsdetail/40997632076cb8ba68f5cbff68a3a7e8/1554603958838","read_num":409,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/07/0010fb2e2b9d4c34a6ecff08e9870683/XxjvxmC007002_20190407_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26269,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"李茜","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca825b5f3e888e072cd1b18.jpg","source":"新华社","title":"习近平时间|营造有利于创新创业创造的良好发展环境","type":2,"pubDate":"2019-04-06 12:06:02","url":"http://home.xinhua-news.com/rss/newsdetail/e6fb145066cb42b9a88587df2a24f820/1554523572133","read_num":624,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/06/XxjvxmC007002_20190406_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26084,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"孙皓舒","image_url":"https://img03-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca6cc78f3e888e072cc8fb4.jpg","source":"新华社","title":"习近平时间|传承红色基因 不忘来路 不忘初心","type":2,"pubDate":"2019-04-05 11:33:01","url":"http://home.xinhua-news.com/rss/newsdetail/d0c27f9d77e8ea98f17a541bb5900b47/1554435191587","read_num":175,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/05/XxjvxmC007004_20190405_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25875,"share_num":0},{"like_num":1,"jsonUrl":null,"author":"孙皓舒,胡蓉","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca58dd6f3e823d5501a8c76.jpg","source":"新华社","title":"习近平时间|铭记 为了更好地前行","type":2,"pubDate":"2019-04-04 12:53:30","url":"http://home.xinhua-news.com/rss/newsdetail/2db0c32d7075a75073b56e1684af3eb1/1554353621089","read_num":479,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/04/d68bbbc2a70343bc9931e31e67edbfe0/XxjvxmC007015_20190404_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25605,"share_num":0},{"like_num":0,"jsonUrl":null,"author":"闫建华","image_url":"https://img02-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca42b23f3e888e072cb64f6.jpg","source":"新华社","title":"习近平时间|政治方向是党生存发展第一位的问题","type":2,"pubDate":"2019-04-03 11:40:09","url":"http://home.xinhua-news.com/rss/newsdetail/9acadc72c868b3cba88587df2a24f820/1554262818219","read_num":687,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/03/11/XxjvxmC007003_20190403_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25369,"share_num":3},{"like_num":2,"jsonUrl":null,"author":"闫建华","image_url":"https://img01-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca30886f3e888e072caecc2.jpg","source":"新华社","title":"习近平时间|严肃党内政治生活是全面从严治党的基础","type":2,"pubDate":"2019-04-02 15:00:10","url":"http://home.xinhua-news.com/rss/newsdetail/ae46bb8f6db66bc9e667bfc701b25963/1554188420082","read_num":330,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/02/XxjvxmC007006_20190402_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25178,"share_num":3}]}]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> <-- END HTTP (6202-byte body)]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> --> GET http://qtx.wengetech.com:28086/common_al/common/getNewsDetailData?type=2&data=26753]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> --> END GET]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> <-- 200 OK http://qtx.wengetech.com:28086/common_al/common/getNewsDetailData?type=2&data=26753 (56ms)]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Server: nginx/1.14.1]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Date: Fri, 12 Apr 2019 06:31:19 GMT]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Content-Type: application/json;charset=UTF-8]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Transfer-Encoding: chunked]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Connection: keep-alive]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Access-Control-Allow-Origin: *]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Pragma: no-cache]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Cache-Control: no-cache]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> Expires: Thu, 01 Jan 1970 00:00:00 GMT]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> ]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> {"image":"https://v.xinhua-news.com/store_attachment/xcbattachfile/2019/04/10/UID20190410095132110617.jpg","author":"刘璐","source":"新华社","title":"习近平时间|推动国土绿化不断取得实实在在的成效","type":"2","pubDate":"2019-04-10 14:39:08","content":"<p class=\"\">　　习近平总书记在参加首都义务植树活动时强调，众人拾柴火焰高，众人植树树成林。生态文明，人人有责。每个人既是良好生态环境的受益者，也是建设者。今天的《习近平时间》，让我们走进内蒙古自治区，看看那里如何保持加强生态环境保护建设的定力，持续推进防沙治沙工作，使生态保护工作不断取得新进展。</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><img src=\"https://v.xinhua-news.com/store_attachment/xcbattachfile/2019/04/10/UID20190410095132110617.jpg\" style=\"display:block;margin-right:auto;margin-left:auto;max-width:92%\" ></img></p><p>　　</p><p class=\"\" style=\"\">　　出品人：姜岩</p><p class=\"\" style=\"\">　　总编导：张宋红</p><p class=\"\" style=\"\">　　策划：毛薇薇 侯晓敏</p><p class=\"\" style=\"\">　　制片人：张焕</p><p class=\"\" style=\"\">　　记者：达日罕</p><p class=\"\" style=\"\">　　执行编导：孙皓舒</p><p class=\"\" style=\"\">　　编辑：高涵 刘璐 郭大可</p><p class=\"\" style=\"\">　　合成：祖宇</p><p class=\"\" style=\"\">　　动画：刘思录</p><p class=\"\" style=\"\">　　主持人：高涵</p><p class=\"\" style=\"\">　　播控：赵利明 冯珂 王越 郑常 杨林旭 姜淞元 曹华强</p><p class=\"\" style=\"\">　　灯光：沙峰 李振北</p><p class=\"\" style=\"\">　　统筹：吴伟武 郝剡</p><p class=\"\" style=\"\">　　终审：侯晓敏 丁冬霞</p><p class=\"\" style=\"\">　　监制：张宋红 王璐</p><p class=\"\" style=\"\">　　中国新华新闻电视网（CNC）出品</p>","url":"http://home.xinhua-news.com/rss/newsdetail/ab7deaf8e5ec6d0bc833255356dd87af/1554878357240","stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/10/XxjvxmC007003_20190410_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":"26753","video_url_pic":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cad8f96f3e888e072d035f5.jpg","img_cut_url":null,"columnName":"c0030173010"}]]>
+    </line>
+    <line>
+      <![CDATA[RetrofitLog--> <-- END HTTP (2424-byte body)]]>
+    </line>
+  </reporter-output>
+  <suite name="search_tags-搜索分类-测试集合" duration-ms="521" started-at="2019-04-12T06:30:19Z" finished-at="2019-04-12T06:30:20Z">
+    <groups>
+    </groups>
+    <test name="搜索分类 接口" duration-ms="521" started-at="2019-04-12T06:30:19Z" finished-at="2019-04-12T06:30:20Z">
+      <class name="com.jxq.douban.SearchTagsTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.jxq.douban.SearchTagsTest@ea706c]" name="beforeSuite" is-config="true" duration-ms="628" started-at="2019-04-12T06:30:18Z" finished-at="2019-04-12T06:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="testcase8()[pri:0, instance:com.jxq.douban.SearchTagsTest@ea706c]" name="testcase8" duration-ms="364" started-at="2019-04-12T06:30:19Z" description="融媒体列表。page=0&amp;size=10&amp;columnId=5c10cfcaa310abf163b45664" finished-at="2019-04-12T06:30:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[RetrofitLog--> --> GET http://qtx.wengetech.com:28086/common_al/common/getNewsColumnData?page=0&size=10&columnId=5c10cfcaa310abf163b45664]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> --> END GET]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> <-- 200 OK http://qtx.wengetech.com:28086/common_al/common/getNewsColumnData?page=0&size=10&columnId=5c10cfcaa310abf163b45664 (280ms)]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Server: nginx/1.14.1]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Date: Fri, 12 Apr 2019 06:31:19 GMT]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Content-Type: application/json;charset=UTF-8]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Transfer-Encoding: chunked]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Connection: keep-alive]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Access-Control-Allow-Origin: *]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Pragma: no-cache]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Cache-Control: no-cache]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Expires: Thu, 01 Jan 1970 00:00:00 GMT]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> ]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> {"total":87,"list":[{"like_num":0,"jsonUrl":null,"author":"胡蓉","image_url":"https://img03-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5caf2c1ef3e888e072d0ee72.jpg","source":"新华社","title":"习近平时间|参与全球科技合作 贡献中国智慧","type":2,"pubDate":"2019-04-11 19:59:16","url":"http://home.xinhua-news.com/rss/newsdetail/b6f6dd0601e25a5aa88587df2a24f820/1554983965389","read_num":56,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/11/bd8fbd6dfc094ee798f2dd234ccdbac3/XxjvxmC007029_20190411_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":27044,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"刘璐","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cad8f96f3e888e072d035f5.jpg","source":"新华社","title":"习近平时间|推动国土绿化不断取得实实在在的成效","type":2,"pubDate":"2019-04-10 14:39:08","url":"http://home.xinhua-news.com/rss/newsdetail/ab7deaf8e5ec6d0bc833255356dd87af/1554878357240","read_num":599,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/10/XxjvxmC007003_20190410_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26753,"share_num":0},{"like_num":0,"jsonUrl":null,"author":"闫建华","image_url":"https://img03-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cac4e93f3e888e072cfb365.jpg","source":"新华社","title":"习近平时间|脱贫攻坚是一场必须打赢打好的硬仗","type":2,"pubDate":"2019-04-09 15:49:24","url":"http://home.xinhua-news.com/rss/newsdetail/3ec540033444c4ffa88587df2a24f820/1554796177552","read_num":119,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/09/XxjvxmC007012_20190409_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26621,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"张南琦","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cab3c3df3e888e072cf565b.jpg","source":"新华社","title":"习近平时间|造林绿化要一代接着一代干","type":2,"pubDate":"2019-04-08 20:18:55","url":"http://home.xinhua-news.com/rss/newsdetail/7b03633f878cd927a32a172ed2a93d3c/1554725948837","read_num":476,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/08/XxjvxmC007029_20190408_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26539,"share_num":1},{"like_num":1,"jsonUrl":null,"author":"李茜","image_url":"https://img02-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca95fb7f3e823d5501c30bf.jpg","source":"新华社","title":"习近平时间|产业振兴促乡村振兴","type":2,"pubDate":"2019-04-07 10:25:48","url":"http://home.xinhua-news.com/rss/newsdetail/40997632076cb8ba68f5cbff68a3a7e8/1554603958838","read_num":409,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/07/0010fb2e2b9d4c34a6ecff08e9870683/XxjvxmC007002_20190407_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26269,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"李茜","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca825b5f3e888e072cd1b18.jpg","source":"新华社","title":"习近平时间|营造有利于创新创业创造的良好发展环境","type":2,"pubDate":"2019-04-06 12:06:02","url":"http://home.xinhua-news.com/rss/newsdetail/e6fb145066cb42b9a88587df2a24f820/1554523572133","read_num":624,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/06/XxjvxmC007002_20190406_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":26084,"share_num":1},{"like_num":0,"jsonUrl":null,"author":"孙皓舒","image_url":"https://img03-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca6cc78f3e888e072cc8fb4.jpg","source":"新华社","title":"习近平时间|传承红色基因 不忘来路 不忘初心","type":2,"pubDate":"2019-04-05 11:33:01","url":"http://home.xinhua-news.com/rss/newsdetail/d0c27f9d77e8ea98f17a541bb5900b47/1554435191587","read_num":175,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/05/XxjvxmC007004_20190405_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25875,"share_num":0},{"like_num":1,"jsonUrl":null,"author":"孙皓舒,胡蓉","image_url":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca58dd6f3e823d5501a8c76.jpg","source":"新华社","title":"习近平时间|铭记 为了更好地前行","type":2,"pubDate":"2019-04-04 12:53:30","url":"http://home.xinhua-news.com/rss/newsdetail/2db0c32d7075a75073b56e1684af3eb1/1554353621089","read_num":479,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/04/d68bbbc2a70343bc9931e31e67edbfe0/XxjvxmC007015_20190404_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25605,"share_num":0},{"like_num":0,"jsonUrl":null,"author":"闫建华","image_url":"https://img02-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca42b23f3e888e072cb64f6.jpg","source":"新华社","title":"习近平时间|政治方向是党生存发展第一位的问题","type":2,"pubDate":"2019-04-03 11:40:09","url":"http://home.xinhua-news.com/rss/newsdetail/9acadc72c868b3cba88587df2a24f820/1554262818219","read_num":687,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/store_xcbdata/video1n/dspdata/201904/03/11/XxjvxmC007003_20190403_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25369,"share_num":3},{"like_num":2,"jsonUrl":null,"author":"闫建华","image_url":"https://img01-static.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5ca30886f3e888e072caecc2.jpg","source":"新华社","title":"习近平时间|严肃党内政治生活是全面从严治党的基础","type":2,"pubDate":"2019-04-02 15:00:10","url":"http://home.xinhua-news.com/rss/newsdetail/ae46bb8f6db66bc9e667bfc701b25963/1554188420082","read_num":330,"stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/02/XxjvxmC007006_20190402_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":25178,"share_num":3}]}]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> <-- END HTTP (6202-byte body)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+        <test-method status="PASS" signature="testcase9()[pri:0, instance:com.jxq.douban.SearchTagsTest@ea706c]" name="testcase9" duration-ms="59" started-at="2019-04-12T06:30:20Z" description="融媒体内容。type=2&amp;data=26753" finished-at="2019-04-12T06:30:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[RetrofitLog--> --> GET http://qtx.wengetech.com:28086/common_al/common/getNewsDetailData?type=2&data=26753]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> --> END GET]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> <-- 200 OK http://qtx.wengetech.com:28086/common_al/common/getNewsDetailData?type=2&data=26753 (56ms)]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Server: nginx/1.14.1]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Date: Fri, 12 Apr 2019 06:31:19 GMT]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Content-Type: application/json;charset=UTF-8]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Transfer-Encoding: chunked]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Connection: keep-alive]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Access-Control-Allow-Origin: *]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Pragma: no-cache]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Cache-Control: no-cache]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> Expires: Thu, 01 Jan 1970 00:00:00 GMT]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> ]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> {"image":"https://v.xinhua-news.com/store_attachment/xcbattachfile/2019/04/10/UID20190410095132110617.jpg","author":"刘璐","source":"新华社","title":"习近平时间|推动国土绿化不断取得实实在在的成效","type":"2","pubDate":"2019-04-10 14:39:08","content":"<p class=\"\">　　习近平总书记在参加首都义务植树活动时强调，众人拾柴火焰高，众人植树树成林。生态文明，人人有责。每个人既是良好生态环境的受益者，也是建设者。今天的《习近平时间》，让我们走进内蒙古自治区，看看那里如何保持加强生态环境保护建设的定力，持续推进防沙治沙工作，使生态保护工作不断取得新进展。</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><img src=\"https://v.xinhua-news.com/store_attachment/xcbattachfile/2019/04/10/UID20190410095132110617.jpg\" style=\"display:block;margin-right:auto;margin-left:auto;max-width:92%\" ></img></p><p>　　</p><p class=\"\" style=\"\">　　出品人：姜岩</p><p class=\"\" style=\"\">　　总编导：张宋红</p><p class=\"\" style=\"\">　　策划：毛薇薇 侯晓敏</p><p class=\"\" style=\"\">　　制片人：张焕</p><p class=\"\" style=\"\">　　记者：达日罕</p><p class=\"\" style=\"\">　　执行编导：孙皓舒</p><p class=\"\" style=\"\">　　编辑：高涵 刘璐 郭大可</p><p class=\"\" style=\"\">　　合成：祖宇</p><p class=\"\" style=\"\">　　动画：刘思录</p><p class=\"\" style=\"\">　　主持人：高涵</p><p class=\"\" style=\"\">　　播控：赵利明 冯珂 王越 郑常 杨林旭 姜淞元 曹华强</p><p class=\"\" style=\"\">　　灯光：沙峰 李振北</p><p class=\"\" style=\"\">　　统筹：吴伟武 郝剡</p><p class=\"\" style=\"\">　　终审：侯晓敏 丁冬霞</p><p class=\"\" style=\"\">　　监制：张宋红 王璐</p><p class=\"\" style=\"\">　　中国新华新闻电视网（CNC）出品</p>","url":"http://home.xinhua-news.com/rss/newsdetail/ab7deaf8e5ec6d0bc833255356dd87af/1554878357240","stroyType":"VIDEO","video_url":"https://v.xinhua-news.com/dsp_AV/dsp_video/2019/04/10/XxjvxmC007003_20190410_CBVFN0A001.mp4","channelName":"新媒体专题 新华视频","id":"26753","video_url_pic":"https://img.xinhua-news.com/imageServer/image/bba04f1f3972a8b1/5cad8f96f3e888e072d035f5.jpg","img_cut_url":null,"columnName":"c0030173010"}]]>
+            </line>
+            <line>
+              <![CDATA[RetrofitLog--> <-- END HTTP (2424-byte body)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+      </class> <!-- com.jxq.douban.SearchTagsTest -->
+    </test> <!-- 搜索分类 接口 -->
+  </suite> <!-- search_tags-搜索分类-测试集合 -->
+</testng-results>
